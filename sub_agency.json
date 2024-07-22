@@ -1,0 +1,1694 @@
+{
+  "name": "Funding Agencies",
+  "children": [
+    {
+      "name": "Access Board",
+      "children": [
+        {
+          "name": "Access Board",
+          "value": 0.00237436171
+        }
+      ]
+    },
+    {
+      "name": "Advisory Council on Historic Preservation",
+      "children": [
+        {
+          "name": "Advisory Council on Historic Preservation",
+          "value": 0.00072471322
+        }
+      ]
+    },
+    {
+      "name": "Agency for International Development",
+      "children": [
+        {
+          "name": "Agency for International Development",
+          "value": 89.28626788515001
+        }
+      ]
+    },
+    {
+      "name": "Armed Forces Retirement Home",
+      "children": [
+        {
+          "name": "Armed Forces Retirement Home",
+          "value": 0.35437941875
+        }
+      ]
+    },
+    {
+      "name": "Commission of Fine Arts",
+      "children": [
+        {
+          "name": "Commission of Fine Arts",
+          "value": 0.00177592388
+        }
+      ]
+    },
+    {
+      "name": "Committee for Purchase from People Who Are Blind or Severely Disabled",
+      "children": [
+        {
+          "name": "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "value": 0.02725675261
+        }
+      ]
+    },
+    {
+      "name": "Commodity Futures Trading Commission",
+      "children": [
+        {
+          "name": "Commodity Futures Trading Commission",
+          "value": 0.8222993350700001
+        }
+      ]
+    },
+    {
+      "name": "Consumer Financial Protection Bureau",
+      "children": [
+        {
+          "name": "Consumer Financial Protection Bureau",
+          "value": 1.4621637240899998
+        }
+      ]
+    },
+    {
+      "name": "Consumer Product Safety Commission",
+      "children": [
+        {
+          "name": "Consumer Product Safety Commission",
+          "value": 0.1596128288899999
+        }
+      ]
+    },
+    {
+      "name": "Corporation for National and Community Service",
+      "children": [
+        {
+          "name": "Corporation for National and Community Service",
+          "value": 0.3723810521599999
+        }
+      ]
+    },
+    {
+      "name": "Corps of Engineers - Civil Works",
+      "children": [
+        {
+          "name": "U.S. Army Corps of Engineers - Civil Program Financing Only",
+          "value": 66.24079017015
+        }
+      ]
+    },
+    {
+      "name": "Council of the Inspectors General on Integrity and Efficiency",
+      "children": [
+        {
+          "name": "Council of the Inspectors General on Integrity and Efficiency",
+          "value": 0.05831784987
+        }
+      ]
+    },
+    {
+      "name": "Court Services and Offender Supervision Agency",
+      "children": [
+        {
+          "name": "Court Services and Offender Supervision Agency",
+          "value": 0.10090453086
+        },
+        {
+          "name": "Pretrial Services Agency",
+          "value": 0.02715499683
+        }
+      ]
+    },
+    {
+      "name": "Defense Nuclear Facilities Safety Board",
+      "children": [
+        {
+          "name": "Defense Nuclear Facilities Safety Board",
+          "value": 0.02887164418
+        }
+      ]
+    },
+    {
+      "name": "Denali Commission",
+      "children": [
+        {
+          "name": "Denali Commission",
+          "value": 0.00026567024
+        }
+      ]
+    },
+    {
+      "name": "Department of Agriculture",
+      "children": [
+        {
+          "name": "Agricultural Marketing Service",
+          "value": 12.15043076994
+        },
+        {
+          "name": "Agricultural Research Service",
+          "value": 2.01285523596
+        },
+        {
+          "name": "Agricultural Stabilization and Conservation Service",
+          "value": 0.0125191903699999
+        },
+        {
+          "name": "Animal and Plant Health Inspection Service",
+          "value": 0.86051408225
+        },
+        {
+          "name": "Commodity Credit Corporation",
+          "value": 0.67840163409
+        },
+        {
+          "name": "Department of Agriculture",
+          "value": 0.66709095471
+        },
+        {
+          "name": "Economic Research Service",
+          "value": 0.00809563218
+        },
+        {
+          "name": "Farm Service Agency",
+          "value": 0.25435661583
+        },
+        {
+          "name": "Food Safety and Inspection Service",
+          "value": 0.14728244353
+        },
+        {
+          "name": "Food and Nutrition Service",
+          "value": 6.59053133395
+        },
+        {
+          "name": "Foreign Agricultural Service",
+          "value": 0.1894848610699999
+        },
+        {
+          "name": "Forest Service",
+          "value": 10.86065393789
+        },
+        {
+          "name": "Grain Inspection, Packers and Stockyards Administration",
+          "value": 0.00083611818
+        },
+        {
+          "name": "Immediate Office of the Secretary of Agriculture",
+          "value": 0.01935400692
+        },
+        {
+          "name": "National Agricultural Statistics Service",
+          "value": 0.0351822828399999
+        },
+        {
+          "name": "National Appeals Division",
+          "value": 6.674136e-05
+        },
+        {
+          "name": "National Institute of Food and Agriculture",
+          "value": 0.06259684275
+        },
+        {
+          "name": "Natural Resources Conservation Service",
+          "value": 0.5866706920600001
+        },
+        {
+          "name": "Office of Administrative Law Judge",
+          "value": 7.277625e-05
+        },
+        {
+          "name": "Office of Advocacy and Outreach",
+          "value": 0.00021515041
+        },
+        {
+          "name": "Office of Assistant Secretary of Civil Rights",
+          "value": 0.01560776621
+        },
+        {
+          "name": "Office of Communication",
+          "value": 0.0170182490599999
+        },
+        {
+          "name": "Office of Congressional Relations",
+          "value": 2.6803220000000003e-05
+        },
+        {
+          "name": "Office of Ethics",
+          "value": 0.00026388475
+        },
+        {
+          "name": "Office of Executive Secretariat",
+          "value": 0.0089191812
+        },
+        {
+          "name": "Office of General Counsel",
+          "value": 0.0107400476199999
+        },
+        {
+          "name": "Office of Homeland Security and Emergency Coordination",
+          "value": 0.07208027086
+        },
+        {
+          "name": "Office of Human Resource Management",
+          "value": 0.01755277021
+        },
+        {
+          "name": "Office of Operations",
+          "value": 2.52489496839
+        },
+        {
+          "name": "Office of Procurement and Property Management",
+          "value": 0.1821822707299999
+        },
+        {
+          "name": "Office of Small and Disadvantaged Business Utilization",
+          "value": 3.264068e-05
+        },
+        {
+          "name": "Office of the Chief Economist",
+          "value": 0.01006426571
+        },
+        {
+          "name": "Office of the Chief Financial Officer",
+          "value": 4.78486695497
+        },
+        {
+          "name": "Office of the Chief Information Officer",
+          "value": 15.90794305905
+        },
+        {
+          "name": "Office of the Inspector General",
+          "value": 0.04077747356
+        },
+        {
+          "name": "Risk Management Agency",
+          "value": 0.01100275453
+        },
+        {
+          "name": "Rural Housing Service",
+          "value": 1.5896757351500002
+        },
+        {
+          "name": "Under Secretary for Farm and Foreign Agricultural Services",
+          "value": 1.68410596998
+        }
+      ]
+    },
+    {
+      "name": "Department of Commerce",
+      "children": [
+        {
+          "name": "Bureau of Economic Analysis",
+          "value": 0.13369755109
+        },
+        {
+          "name": "Bureau of Industry and Security",
+          "value": 0.100408631
+        },
+        {
+          "name": "Department of Commerce",
+          "value": 0.0008925512099999
+        },
+        {
+          "name": "Economic Development Administration",
+          "value": 0.0422276008299999
+        },
+        {
+          "name": "International Trade Administration",
+          "value": 0.56874090573
+        },
+        {
+          "name": "Minority Business Development Agency",
+          "value": 0.03325691473
+        },
+        {
+          "name": "National Institute of Standards and Technology",
+          "value": 15.58372190109
+        },
+        {
+          "name": "National Oceanic and Atmospheric Administration",
+          "value": 71.4015612893
+        },
+        {
+          "name": "National Technical Information Service",
+          "value": 0.06580753461
+        },
+        {
+          "name": "National Telecommunications and Information Administration",
+          "value": 0.72261778589
+        },
+        {
+          "name": "Office of the Inspector General",
+          "value": 0.02234091206
+        },
+        {
+          "name": "Office of the Secretary",
+          "value": 1.98904153331
+        },
+        {
+          "name": "U.S. Census Bureau",
+          "value": 5.79003833766
+        },
+        {
+          "name": "U.S. Patent and Trademark Office",
+          "value": 10.19353057094
+        }
+      ]
+    },
+    {
+      "name": "Department of Defense",
+      "children": [
+        {
+          "name": "Army/Air Force Exchange Service",
+          "value": 8.41265088409
+        },
+        {
+          "name": "Defense Advanced Research Projects Agency",
+          "value": 99.09281800353
+        },
+        {
+          "name": "Defense Commissary Agency",
+          "value": 6.5158050879
+        },
+        {
+          "name": "Defense Contract Audit Agency",
+          "value": 0.66422763624
+        },
+        {
+          "name": "Defense Contract Management Agency",
+          "value": 14.81402617093
+        },
+        {
+          "name": "Defense Counterintelligence and Security Agency",
+          "value": 8.23532320178
+        },
+        {
+          "name": "Defense Finance and Accounting Service",
+          "value": 5.25721701338
+        },
+        {
+          "name": "Defense Health Agency",
+          "value": 3613.64494199538
+        },
+        {
+          "name": "Defense Human Resources Activity",
+          "value": 8.76351856947
+        },
+        {
+          "name": "Defense Information Systems Agency",
+          "value": 55.96265270953
+        },
+        {
+          "name": "Defense Intelligence Agency",
+          "value": 0.16249838598
+        },
+        {
+          "name": "Defense Logistics Agency",
+          "value": 56.94616853499
+        },
+        {
+          "name": "Defense Media Activity",
+          "value": 0.51767340946
+        },
+        {
+          "name": "Defense Microelectronics Activity",
+          "value": 13.05416245259
+        },
+        {
+          "name": "Defense Prisoner of War/Missing Personnel Office",
+          "value": 0.05120114258
+        },
+        {
+          "name": "Defense Security Cooperation Agency",
+          "value": 2.7711890069200003
+        },
+        {
+          "name": "Defense Threat Reduction Agency",
+          "value": 91.31988248374
+        },
+        {
+          "name": "Department of Defense Education Activity",
+          "value": 10.7063883546
+        },
+        {
+          "name": "Department of the Air Force",
+          "value": 3214.3661091965096
+        },
+        {
+          "name": "Department of the Army",
+          "value": 2508.88448436835
+        },
+        {
+          "name": "Department of the Navy",
+          "value": 11223.88551927188
+        },
+        {
+          "name": "Immediate Office of the Secretary of Defense",
+          "value": 132.62364400562
+        },
+        {
+          "name": "Missile Defense Agency",
+          "value": 580.3810572152801
+        },
+        {
+          "name": "National Geospatial-Intelligence Agency",
+          "value": 0.04821369383
+        },
+        {
+          "name": "National Security Agency/Central Security Service",
+          "value": 44.40506725725
+        },
+        {
+          "name": "Office of Local Defense Community Cooperation",
+          "value": 0.03923962338
+        },
+        {
+          "name": "Office of the Inspector General",
+          "value": 0.12219407346
+        },
+        {
+          "name": "Organization of the Joint Chiefs of Staff",
+          "value": 0.00685095302
+        },
+        {
+          "name": "Pentagon Force Protection Agency",
+          "value": 0.59191092718
+        },
+        {
+          "name": "Space Development Agency",
+          "value": 0.003473059
+        },
+        {
+          "name": "U.S. Court of Appeals for the Armed Forces",
+          "value": 0.00300958202
+        },
+        {
+          "name": "U.S. Cyber Command",
+          "value": 0.01044376875
+        },
+        {
+          "name": "U.S. Special Operations Command",
+          "value": 41.37414337686
+        },
+        {
+          "name": "USTRANSCOM",
+          "value": 0.90501371108
+        },
+        {
+          "name": "Uniformed Services University of the Health Sciences",
+          "value": 0.09962555655
+        },
+        {
+          "name": "Washington Headquarters Services",
+          "value": 54.12698731795
+        }
+      ]
+    },
+    {
+      "name": "Department of Education",
+      "children": [
+        {
+          "name": "Department of Education",
+          "value": 138.76359926855
+        }
+      ]
+    },
+    {
+      "name": "Department of Energy",
+      "children": [
+        {
+          "name": "Department of Energy",
+          "value": 7705.30918178088
+        },
+        {
+          "name": "Federal Energy Regulatory Commission",
+          "value": 0.68705039224
+        }
+      ]
+    },
+    {
+      "name": "Department of Health and Human Services",
+      "children": [
+        {
+          "name": "Administration for Children and Families",
+          "value": 15.84507153945
+        },
+        {
+          "name": "Administration for Community Living",
+          "value": 0.04877924662
+        },
+        {
+          "name": "Agency for Healthcare Research and Quality",
+          "value": 0.95907725948
+        },
+        {
+          "name": "Centers for Disease Control and Prevention",
+          "value": 59.32456614115
+        },
+        {
+          "name": "Centers for Medicare and Medicaid Services",
+          "value": 121.19836767212
+        },
+        {
+          "name": "Food and Drug Administration",
+          "value": 6.05506385606
+        },
+        {
+          "name": "Health Resources and Services Administration",
+          "value": 2.2510782116
+        },
+        {
+          "name": "Immediate Office of the Secretary",
+          "value": 0.0637579011599999
+        },
+        {
+          "name": "Indian Health Service",
+          "value": 6.38826576808
+        },
+        {
+          "name": "National Institutes of Health",
+          "value": 101.37139483398
+        },
+        {
+          "name": "Office for Civil Rights",
+          "value": 0.03984986628
+        },
+        {
+          "name": "Office of Assistant Secretary for Planning and Evaluation",
+          "value": 0.72290497875
+        },
+        {
+          "name": "Office of Assistant Secretary for Preparedness and Response",
+          "value": 55.61042923588
+        },
+        {
+          "name": "Office of Assistant Secretary for Public Affairs",
+          "value": 0.00026321838
+        },
+        {
+          "name": "Office of Intergovernmental and External Affairs",
+          "value": 0.35155489149
+        },
+        {
+          "name": "Office of the Assistant Secretary for Administration",
+          "value": 6.305445032010001
+        },
+        {
+          "name": "Office of the Assistant Secretary for Financial Resources",
+          "value": 0.06940425112
+        },
+        {
+          "name": "Office of the General Counsel",
+          "value": 1.062e-06
+        },
+        {
+          "name": "Office of the Inspector General",
+          "value": 0.44529194401
+        },
+        {
+          "name": "Substance Abuse and Mental Health Services Administration",
+          "value": 1.47709087859
+        }
+      ]
+    },
+    {
+      "name": "Department of Homeland Security",
+      "children": [
+        {
+          "name": "Countering Weapons of Mass Destruction",
+          "value": 16.27795738004
+        },
+        {
+          "name": "Cybersecurity and Infrastructure Security Agency",
+          "value": 58.43900905488
+        },
+        {
+          "name": "Federal Emergency Management Agency",
+          "value": 17.69123355295
+        },
+        {
+          "name": "Federal Law Enforcement Training Center",
+          "value": 5.81697606951
+        },
+        {
+          "name": "Immediate Office of the Secretary",
+          "value": 0.38177387921
+        },
+        {
+          "name": "Office of Intelligence and Analysis",
+          "value": 0.09178647256
+        },
+        {
+          "name": "Office of the Chief Financial Officer",
+          "value": 0.88292624221
+        },
+        {
+          "name": "Office of the Chief Human Capital Officer",
+          "value": 0.31756602544
+        },
+        {
+          "name": "Office of the Chief Information Officer",
+          "value": 7.97870758375
+        },
+        {
+          "name": "Office of the Chief Procurement Officer",
+          "value": 1.57954746378
+        },
+        {
+          "name": "Office of the Chief Readiness Support Officer",
+          "value": 1.09054968051
+        },
+        {
+          "name": "Office of the Chief Security Officer",
+          "value": 0.16282340251
+        },
+        {
+          "name": "Office of the Inspector General",
+          "value": 0.51785684437
+        },
+        {
+          "name": "Office of the Under Secretary for Management",
+          "value": 12.34704307097
+        },
+        {
+          "name": "Office of the Under Secretary for Science and Technology",
+          "value": 4.961927780020001
+        },
+        {
+          "name": "Transportation Security Administration",
+          "value": 31.26399098457
+        },
+        {
+          "name": "U.S. Citizenship and Immigration Services",
+          "value": 13.65239493201
+        },
+        {
+          "name": "U.S. Coast Guard",
+          "value": 53.95713902562
+        },
+        {
+          "name": "U.S. Customs and Border Protection",
+          "value": 84.00212493542999
+        },
+        {
+          "name": "U.S. Immigration and Customs Enforcement",
+          "value": 30.32365083715
+        },
+        {
+          "name": "U.S. Secret Service",
+          "value": 1.01162223956
+        }
+      ]
+    },
+    {
+      "name": "Department of Housing and Urban Development",
+      "children": [
+        {
+          "name": "Assistant Secretary for Administration",
+          "value": 1.952526e-05
+        },
+        {
+          "name": "Assistant Secretary for Housing--Federal Housing Commissioner",
+          "value": 0.38155753999
+        },
+        {
+          "name": "Assistant Secretary for Public and Indian Housing",
+          "value": 0.02046564865
+        },
+        {
+          "name": "Chief Procurement Officer",
+          "value": 0.00076968
+        },
+        {
+          "name": "Department of Housing and Urban Development",
+          "value": 8.8459084123
+        },
+        {
+          "name": "Government National Mortgage Association",
+          "value": 0.10696055598
+        },
+        {
+          "name": "Office of Inspector General",
+          "value": 0.00187967122
+        }
+      ]
+    },
+    {
+      "name": "Department of Justice",
+      "children": [
+        {
+          "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives Acquisition and Property Management Division",
+          "value": 10.39164075848
+        },
+        {
+          "name": "Department of Justice",
+          "value": 1.14360711205
+        },
+        {
+          "name": "Drug Enforcement Administration",
+          "value": 6.47633924944
+        },
+        {
+          "name": "Federal Bureau of Investigation",
+          "value": 13.05301138142
+        },
+        {
+          "name": "Federal Prison Industries / Unicor",
+          "value": 0.20577066033
+        },
+        {
+          "name": "Federal Prison System / Bureau of Prisons",
+          "value": 8.51961345644
+        },
+        {
+          "name": "Office of Justice Programs",
+          "value": 1.48159244538
+        },
+        {
+          "name": "Office of the Inspector General",
+          "value": 0.11381117197
+        },
+        {
+          "name": "Offices, Boards and Divisions",
+          "value": 14.56879234845
+        },
+        {
+          "name": "U.S. Marshals Service",
+          "value": 49.0298629794
+        }
+      ]
+    },
+    {
+      "name": "Department of Labor",
+      "children": [
+        {
+          "name": "Administrative Review Board",
+          "value": 0.03124283669
+        },
+        {
+          "name": "Benefits Review Board",
+          "value": 6.811657000000001e-05
+        },
+        {
+          "name": "Bureau of International Labor Affairs",
+          "value": 0.0394968184099999
+        },
+        {
+          "name": "Bureau of Labor Statistics",
+          "value": 1.50596613638
+        },
+        {
+          "name": "Department of Labor",
+          "value": 0.54614484425
+        },
+        {
+          "name": "Employee Benefits Security Administration",
+          "value": 0.41354101489
+        },
+        {
+          "name": "Employment and Training Administration",
+          "value": 2.3462716288800003
+        },
+        {
+          "name": "Immediate Office of the Secretary",
+          "value": 0.01562217507
+        },
+        {
+          "name": "Mine Safety and Health Administration",
+          "value": 0.26370710739
+        },
+        {
+          "name": "Occupational Safety and Health Administration",
+          "value": 0.2020843901299999
+        },
+        {
+          "name": "Office of Administrative Law Judges",
+          "value": 0.04168647641
+        },
+        {
+          "name": "Office of Chief Financial Officer",
+          "value": 0.93088131537
+        },
+        {
+          "name": "Office of Federal Contract Compliance Program",
+          "value": 0.0042465148
+        },
+        {
+          "name": "Office of Information and Public Affairs",
+          "value": 0.21955019529
+        },
+        {
+          "name": "Office of Inspector General",
+          "value": 0.04976237235
+        },
+        {
+          "name": "Office of Job Corps",
+          "value": 39.08997251907
+        },
+        {
+          "name": "Office of Labor-Management Standards",
+          "value": 0.00150633498
+        },
+        {
+          "name": "Office of Workers Compensation Program",
+          "value": 0.70037500514
+        },
+        {
+          "name": "Office of the Assistant Secretary for Administration and Management",
+          "value": 8.1404488264
+        },
+        {
+          "name": "Office of the Assistant Secretary for Policy",
+          "value": 0.08761561718
+        },
+        {
+          "name": "Office of the Deputy Under Secretary for Congressional Affairs",
+          "value": 0.0013325906499999
+        },
+        {
+          "name": "Office of the Solicitor",
+          "value": 0.00581623358
+        },
+        {
+          "name": "President's Committee on Employment of the Handicapped",
+          "value": 0.06633511151
+        },
+        {
+          "name": "Veterans Employment and Training Services",
+          "value": 0.43542388196
+        },
+        {
+          "name": "Wage and Hour Division",
+          "value": 0.28044095636
+        },
+        {
+          "name": "Women's Bureau",
+          "value": 0.00338657599
+        }
+      ]
+    },
+    {
+      "name": "Department of State",
+      "children": [
+        {
+          "name": "Department of State",
+          "value": 242.3725362252
+        },
+        {
+          "name": "International Boundary and Water Commission: U.S.-Mexico",
+          "value": 0.60254802873
+        }
+      ]
+    },
+    {
+      "name": "Department of Transportation",
+      "children": [
+        {
+          "name": "Department of Transportation",
+          "value": 14.32977159338
+        },
+        {
+          "name": "Federal Aviation Administration",
+          "value": 365.46599440251
+        },
+        {
+          "name": "Federal Highway Administration",
+          "value": 7.61765240314
+        },
+        {
+          "name": "Federal Motor Carrier Safety Administration",
+          "value": 0.44310704735
+        },
+        {
+          "name": "Federal Railroad Administration",
+          "value": 0.50918992414
+        },
+        {
+          "name": "Federal Transit Administration",
+          "value": 0.48501011961
+        },
+        {
+          "name": "Immediate Office of the Secretary of Transportation",
+          "value": 2.77781449044
+        },
+        {
+          "name": "Maritime Administration",
+          "value": 2.65741119286
+        },
+        {
+          "name": "National Highway Traffic Safety Administration",
+          "value": 1.30996639273
+        },
+        {
+          "name": "Office of Inspector General",
+          "value": 0.05361098364
+        },
+        {
+          "name": "Pipeline and Hazardous Materials Safety Administration",
+          "value": 0.22226234292
+        },
+        {
+          "name": "Saint Lawrence Seaway Development Corporation",
+          "value": 0.13627553883
+        }
+      ]
+    },
+    {
+      "name": "Department of Veterans Affairs",
+      "children": [
+        {
+          "name": "Department of Veterans Affairs",
+          "value": 211.96172350821
+        },
+        {
+          "name": "Under Secretary for Benefits/Veterans Benefits Administration",
+          "value": 0.05369405469
+        }
+      ]
+    },
+    {
+      "name": "Department of the Interior",
+      "children": [
+        {
+          "name": "Bureau of Indian Affairs and Bureau of Indian Education",
+          "value": 3.20639030287
+        },
+        {
+          "name": "Bureau of Land Management",
+          "value": 1.88276272414
+        },
+        {
+          "name": "Bureau of Ocean Energy Management",
+          "value": 0.10981140397
+        },
+        {
+          "name": "Bureau of Reclamation",
+          "value": 14.47121056509
+        },
+        {
+          "name": "Bureau of Safety and Environmental Enforcement",
+          "value": 0.48605482417
+        },
+        {
+          "name": "Departmental Offices",
+          "value": 10.94942615952
+        },
+        {
+          "name": "Executive Secretariat",
+          "value": 0.20685122465
+        },
+        {
+          "name": "Insular Affairs",
+          "value": 0.03732589531
+        },
+        {
+          "name": "National Indian Gaming Commission",
+          "value": 0.00778707121
+        },
+        {
+          "name": "National Park Service",
+          "value": 9.34036703167
+        },
+        {
+          "name": "Office of Surface Mining, Reclamation and Enforcement",
+          "value": 0.02768310802
+        },
+        {
+          "name": "Office of the Inspector General",
+          "value": 0.02271439795
+        },
+        {
+          "name": "Office of the Solicitor",
+          "value": 0.0406087567599999
+        },
+        {
+          "name": "Office of the Special Trustee for American Indians",
+          "value": 0.00048248351
+        },
+        {
+          "name": "U.S. Fish and Wildlife Service",
+          "value": 1.60947413701
+        },
+        {
+          "name": "U.S. Geological Survey",
+          "value": 3.44592635341
+        }
+      ]
+    },
+    {
+      "name": "Department of the Treasury",
+      "children": [
+        {
+          "name": "Alcohol and Tobacco Tax and Trade Bureau",
+          "value": 0.24846500502
+        },
+        {
+          "name": "Bureau of Engraving and Printing",
+          "value": 4.37541698296
+        },
+        {
+          "name": "Bureau of the Fiscal Service",
+          "value": 1.48833937853
+        },
+        {
+          "name": "Community Development Financial Institutions Fund",
+          "value": 0.02866954954
+        },
+        {
+          "name": "Departmental Offices",
+          "value": 3.61282420766
+        },
+        {
+          "name": "Financial Crime Enforcement Network",
+          "value": 0.26522738238
+        },
+        {
+          "name": "Internal Revenue Service",
+          "value": 59.75625214452
+        },
+        {
+          "name": "Office of Inspector General",
+          "value": 0.10158058932
+        },
+        {
+          "name": "Office of the Comptroller of the Currency",
+          "value": 0.96868882096
+        },
+        {
+          "name": "Office of the Inspector General for Tax Administration",
+          "value": 0.0368691565
+        },
+        {
+          "name": "Special Inspector General for Pandemic Recovery",
+          "value": 0.00010896265
+        },
+        {
+          "name": "Special Inspector General for the Troubled Asset Relief Program (TARP)",
+          "value": 0.00041798124
+        },
+        {
+          "name": "United States Mint",
+          "value": 3.92484104918
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia Courts",
+      "children": [
+        {
+          "name": "District of Columbia Courts",
+          "value": 0.49882270206
+        }
+      ]
+    },
+    {
+      "name": "Election Assistance Commission",
+      "children": [
+        {
+          "name": "Election Assistance Commission",
+          "value": 0.00776200782
+        }
+      ]
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "children": [
+        {
+          "name": "Environmental Protection Agency",
+          "value": 23.11540631077
+        }
+      ]
+    },
+    {
+      "name": "Equal Employment Opportunity Commission",
+      "children": [
+        {
+          "name": "Equal Employment Opportunity Commission",
+          "value": 0.4014859327
+        }
+      ]
+    },
+    {
+      "name": "Executive Office of the President",
+      "children": [
+        {
+          "name": "Executive Office of the President",
+          "value": 0.6076984371699999
+        }
+      ]
+    },
+    {
+      "name": "Export-Import Bank of the United States",
+      "children": [
+        {
+          "name": "Export-Import Bank of the United States",
+          "value": 0.21595518364
+        }
+      ]
+    },
+    {
+      "name": "Federal Communications Commission",
+      "children": [
+        {
+          "name": "Federal Communications Commission",
+          "value": 1.22761887285
+        }
+      ]
+    },
+    {
+      "name": "Federal Election Commission",
+      "children": [
+        {
+          "name": "Federal Election Commission",
+          "value": 0.05070084883
+        }
+      ]
+    },
+    {
+      "name": "Federal Housing Finance Agency",
+      "children": [
+        {
+          "name": "Federal Housing Finance Agency",
+          "value": 0.0017765432699999
+        }
+      ]
+    },
+    {
+      "name": "Federal Labor Relations Authority",
+      "children": [
+        {
+          "name": "Federal Labor Relations Authority",
+          "value": 0.00094090607
+        }
+      ]
+    },
+    {
+      "name": "Federal Maritime Commission",
+      "children": [
+        {
+          "name": "Federal Maritime Commission",
+          "value": 0.01219598131
+        }
+      ]
+    },
+    {
+      "name": "Federal Mediation and Conciliation Service",
+      "children": [
+        {
+          "name": "Federal Mediation and Conciliation Service",
+          "value": 0.00411213665
+        }
+      ]
+    },
+    {
+      "name": "Federal Mine Safety and Health Review Commission",
+      "children": [
+        {
+          "name": "Federal Mine Safety and Health Review Commission",
+          "value": 0.00970320878
+        }
+      ]
+    },
+    {
+      "name": "Federal Permitting Improvement Steering Council",
+      "children": [
+        {
+          "name": "Federal Permitting Improvement Steering Council",
+          "value": 0.01134913276
+        }
+      ]
+    },
+    {
+      "name": "Federal Trade Commission",
+      "children": [
+        {
+          "name": "Federal Trade Commission",
+          "value": 0.92420540571
+        }
+      ]
+    },
+    {
+      "name": "General Services Administration",
+      "children": [
+        {
+          "name": "Customer Experience Division",
+          "value": 0.0014625
+        },
+        {
+          "name": "Federal Acquisition Service",
+          "value": 11.5893019877
+        },
+        {
+          "name": "General Services Administration",
+          "value": 16.85426274234
+        },
+        {
+          "name": "Office of Administrative Services",
+          "value": 0.52738119442
+        },
+        {
+          "name": "Office of Communications and Marketing",
+          "value": 0.0026783344
+        },
+        {
+          "name": "Office of General Counsel",
+          "value": 0.00763448352
+        },
+        {
+          "name": "Office of Government-wide Policy",
+          "value": 0.47538474443
+        },
+        {
+          "name": "Office of Human Resources Management",
+          "value": 0.01742565921
+        },
+        {
+          "name": "Office of Inspector General",
+          "value": 0.01505228954
+        },
+        {
+          "name": "Office of Mission Assurance",
+          "value": 0.0018802980699999
+        },
+        {
+          "name": "Office of Small Business Utilization",
+          "value": 0.00012076905
+        },
+        {
+          "name": "Office of the Administrator",
+          "value": 0.00108692879
+        },
+        {
+          "name": "Office of the Chief Financial Officer",
+          "value": 0.03055336551
+        },
+        {
+          "name": "Office of the Chief Information Officer",
+          "value": 6.79070712306
+        },
+        {
+          "name": "Public Buildings Service",
+          "value": 43.81162572407
+        },
+        {
+          "name": "Technology Transformation Service",
+          "value": 0.34516522868
+        }
+      ]
+    },
+    {
+      "name": "Government Accountability Office",
+      "children": [
+        {
+          "name": "GAO, Except Comptroller General",
+          "value": 1.99775197997
+        }
+      ]
+    },
+    {
+      "name": "Gulf Coast Ecosystem Restoration Council",
+      "children": [
+        {
+          "name": "Gulf Coast Ecosystem Restoration Council",
+          "value": 0.0117918772699999
+        }
+      ]
+    },
+    {
+      "name": "Institute of Museum and Library Services",
+      "children": [
+        {
+          "name": "Institute of Museum and Library Services",
+          "value": 0.02333610118
+        }
+      ]
+    },
+    {
+      "name": "Inter-American Foundation",
+      "children": [
+        {
+          "name": "Inter-American Foundation",
+          "value": 0.03642842588
+        }
+      ]
+    },
+    {
+      "name": "International Trade Commission",
+      "children": [
+        {
+          "name": "International Trade Commission",
+          "value": 0.05766237908
+        }
+      ]
+    },
+    {
+      "name": "John F. Kennedy Center for the Performing Arts",
+      "children": [
+        {
+          "name": "John F. Kennedy Center for the Performing Arts",
+          "value": 0.04585920451
+        }
+      ]
+    },
+    {
+      "name": "Library of Congress",
+      "children": [
+        {
+          "name": "Library of Congress",
+          "value": 0.00758497712
+        }
+      ]
+    },
+    {
+      "name": "Merit Systems Protection Board",
+      "children": [
+        {
+          "name": "Merit Systems Protection Board",
+          "value": 0.0187040200399999
+        }
+      ]
+    },
+    {
+      "name": "Millennium Challenge Corporation",
+      "children": [
+        {
+          "name": "Millennium Challenge Corporation",
+          "value": 0.54951153288
+        }
+      ]
+    },
+    {
+      "name": "Morris K. Udall and Stewart L. Udall Foundation",
+      "children": [
+        {
+          "name": "Morris K. Udall and Stewart L. Udall Foundation",
+          "value": 0.00972419442
+        }
+      ]
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "children": [
+        {
+          "name": "National Aeronautics and Space Administration",
+          "value": 2727.8915625420104
+        }
+      ]
+    },
+    {
+      "name": "National Archives and Records Administration",
+      "children": [
+        {
+          "name": "National Archives and Records Administration",
+          "value": 1.74906281857
+        }
+      ]
+    },
+    {
+      "name": "National Endowment for the Arts",
+      "children": [
+        {
+          "name": "National Endowment for the Arts",
+          "value": 0.0062464329
+        }
+      ]
+    },
+    {
+      "name": "National Endowment for the Humanities",
+      "children": [
+        {
+          "name": "National Endowment for the Humanities",
+          "value": 0.00129856863
+        }
+      ]
+    },
+    {
+      "name": "National Gallery of Art",
+      "children": [
+        {
+          "name": "National Gallery of Art",
+          "value": 0.77314749137
+        }
+      ]
+    },
+    {
+      "name": "National Labor Relations Board",
+      "children": [
+        {
+          "name": "National Labor Relations Board",
+          "value": 0.12619393698
+        }
+      ]
+    },
+    {
+      "name": "National Mediation Board",
+      "children": [
+        {
+          "name": "National Mediation Board",
+          "value": 0.00832480228
+        }
+      ]
+    },
+    {
+      "name": "National Science Foundation",
+      "children": [
+        {
+          "name": "National Science Foundation",
+          "value": 39.80608494616
+        }
+      ]
+    },
+    {
+      "name": "National Transportation Safety Board",
+      "children": [
+        {
+          "name": "National Transportation Safety Board",
+          "value": 0.01802251261
+        }
+      ]
+    },
+    {
+      "name": "Northern Border Regional Commission",
+      "children": [
+        {
+          "name": "Northern Border Regional Commission",
+          "value": 0.00374179273
+        }
+      ]
+    },
+    {
+      "name": "Nuclear Regulatory Commission",
+      "children": [
+        {
+          "name": "Nuclear Regulatory Commission",
+          "value": 2.48981521443
+        }
+      ]
+    },
+    {
+      "name": "Occupational Safety and Health Review Commission",
+      "children": [
+        {
+          "name": "Occupational Safety and Health Review Commission",
+          "value": 0.00171637923
+        }
+      ]
+    },
+    {
+      "name": "Office of Government Ethics",
+      "children": [
+        {
+          "name": "Office of Government Ethics",
+          "value": 0.01014130167
+        }
+      ]
+    },
+    {
+      "name": "Office of Personnel Management",
+      "children": [
+        {
+          "name": "Office of Personnel Management",
+          "value": 4.77538485972
+        }
+      ]
+    },
+    {
+      "name": "Office of Special Counsel",
+      "children": [
+        {
+          "name": "Office of Special Counsel",
+          "value": 0.0046982607
+        }
+      ]
+    },
+    {
+      "name": "Peace Corps",
+      "children": [
+        {
+          "name": "Peace Corps",
+          "value": 0.42901309517
+        }
+      ]
+    },
+    {
+      "name": "Pension Benefit Guaranty Corporation",
+      "children": [
+        {
+          "name": "Pension Benefit Guaranty Corporation",
+          "value": 4.74671644192
+        }
+      ]
+    },
+    {
+      "name": "Privacy and Civil Liberties Oversight Board",
+      "children": [
+        {
+          "name": "Privacy and Civil Liberties Oversight Board",
+          "value": 0.00820993781
+        }
+      ]
+    },
+    {
+      "name": "Railroad Retirement Board",
+      "children": [
+        {
+          "name": "Railroad Retirement Board",
+          "value": 0.33385237192
+        }
+      ]
+    },
+    {
+      "name": "Securities and Exchange Commission",
+      "children": [
+        {
+          "name": "Securities and Exchange Commission",
+          "value": 9.87937884716
+        }
+      ]
+    },
+    {
+      "name": "Selective Service System",
+      "children": [
+        {
+          "name": "Selective Service System",
+          "value": 0.00011496948
+        }
+      ]
+    },
+    {
+      "name": "Small Business Administration",
+      "children": [
+        {
+          "name": "Small Business Administration",
+          "value": 1.89061786517
+        }
+      ]
+    },
+    {
+      "name": "Smithsonian Institution",
+      "children": [
+        {
+          "name": "Smithsonian Institution",
+          "value": 5.54947484437
+        }
+      ]
+    },
+    {
+      "name": "Social Security Administration",
+      "children": [
+        {
+          "name": "Social Security Administration",
+          "value": 15.16642890155
+        }
+      ]
+    },
+    {
+      "name": "Surface Transportation Board",
+      "children": [
+        {
+          "name": "Surface Transportation Board",
+          "value": 0.03391584303
+        }
+      ]
+    },
+    {
+      "name": "The Judicial Branch",
+      "children": [
+        {
+          "name": "Administrative Office of the U.S. Courts",
+          "value": 3.88762256883
+        },
+        {
+          "name": "The Judicial Branch",
+          "value": 0.00179301834
+        }
+      ]
+    },
+    {
+      "name": "The Legislative Branch",
+      "children": [
+        {
+          "name": "Joint House and Senate Entities",
+          "value": 0.00016916498
+        }
+      ]
+    },
+    {
+      "name": "U.S. Agency for Global Media",
+      "children": [
+        {
+          "name": "U.S. Agency for Global Media",
+          "value": 0.67647394886
+        }
+      ]
+    },
+    {
+      "name": "U.S. International Development Finance Corporation",
+      "children": [
+        {
+          "name": "U.S. International Development Finance Corporation",
+          "value": 0.4161533806
+        }
+      ]
+    },
+    {
+      "name": "U.S. Postal Service",
+      "children": [
+        {
+          "name": "U.S. Postal Service",
+          "value": 6.374069999999999e-05
+        }
+      ]
+    },
+    {
+      "name": "U.S. Tax Court",
+      "children": [
+        {
+          "name": "U.S. Tax Court",
+          "value": 0.00082076781
+        }
+      ]
+    },
+    {
+      "name": "United States Chemical Safety Board",
+      "children": [
+        {
+          "name": "United States Chemical Safety Board",
+          "value": 0.00785368013
+        }
+      ]
+    },
+    {
+      "name": "United States Government Publishing Office",
+      "children": [
+        {
+          "name": "United States Government Publishing Office",
+          "value": 0.00467058478
+        }
+      ]
+    }
+  ]
+}
