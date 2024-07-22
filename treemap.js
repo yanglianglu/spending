@@ -70,8 +70,6 @@ function renderTreemap(data) {
   let uniqueId = 0;
   const generateUniqueId = () => `leaf-${uniqueId++}`;
 
-  leaf.append("title")
-    .text(d => `${d.ancestors().reverse().map(d => d.data.name).join(".")}\n$${format(d.value)} Billion`);
 
   leaf.append("rect")
     .attr("id", d => (d.leafUid = generateUniqueId()))
